@@ -68,5 +68,3 @@ The system consists of two main components:
 2. The XIAO processes these signals and uses a trained TensorFlow Lite model to classify the gesture
 3. The classified gesture is sent to the Arduino Uno via I2C
 4. The Uno controls the appropriate servo motors to move the robotic hand's fingers
-
-![Robotic Hand Demo](assets/demo.gif)
