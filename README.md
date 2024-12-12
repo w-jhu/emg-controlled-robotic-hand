@@ -2,6 +2,10 @@
 
 A robotic hand control system that uses EMG (electromyography) signals to detect finger movements and replicate them on a robotic hand. The system uses TinyML for gesture recognition and implements real-time control through Arduino-compatible boards.
 
+## Demo
+
+![Robotic Hand Demo](assets/demo.gif)
+
 ## System Overview
 
 The system consists of two main components:
